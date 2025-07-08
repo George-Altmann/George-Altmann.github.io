@@ -8,8 +8,8 @@ nav_order: 2
 
 {% include news.liquid %}
 
-{% include conferences.liquid %}
+{% include Conferences.liquid %}
 
-{% include conferencesorg.liquid %}
+{% include Conferencesorg.liquid %}
 
 
