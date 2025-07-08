@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Conferences and Talks/
-title: Recent Talks
+permalink: /Recent Talks/
+title: Conferences and Talks
 nav: true
 nav_order: 2
 ---
