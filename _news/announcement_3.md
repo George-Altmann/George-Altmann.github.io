@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06
+date: 2025-06-17
 inline: true
 related_posts: false
 ---
 
-The Yang Baxter Equation and all that
+The Yang Baxter Equation and all that, Bedlewo, Poland.
