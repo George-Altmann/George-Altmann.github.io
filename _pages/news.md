@@ -7,3 +7,9 @@ nav_order: 2
 ---
 
 {% include news.liquid %}
+
+{% include conferences.liquid %}
+
+{% include conferencesorg.liquid %}
+
+
