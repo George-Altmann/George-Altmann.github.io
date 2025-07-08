@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://George-Altmann.github.io/sitemap.xml
