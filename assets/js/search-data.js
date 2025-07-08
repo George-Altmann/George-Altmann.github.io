@@ -16,14 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "news-pure-pgr-seminar-university-of-leeds-uk",
+        },{id: "news-pure-pgr-seminar-university-of-leeds-uk",
           title: 'Pure PGR Seminar, University of Leeds, UK',
           description: "",
           section: "News",},{id: "news-the-interplay-between-skew-braces-and-hopf-galois-theory-university-of-leeds-uk",
