@@ -8,14 +8,14 @@ nav: true
 nav_order: 2
 ---
 
-<!-- Recent Talks -->
+Recent Talks
 {% include news.liquid %}
 
 
-<!-- Conferences/Workshops Attended -->
+Conferences/Workshops Attended
 {% include Conferences.liquid %}
 
-<!-- Conferences and Seminars Organised -->
+Conferences and Seminars Organised
 {% include Conferencesorg.liquid %}
 
 
