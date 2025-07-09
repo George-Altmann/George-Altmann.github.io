@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2025-05-15
+date: 2024-12-16
 inline: true
 related_posts: false
 ---
 
-The Interplay Between Skew Braces and Hopf-Galois Theory, University of Leeds, UK.
+Biracks and Biquandles: Theory, applications, and new perspectives - Algebra and Representation Theory in the North, Leeds, UK
 
 
 

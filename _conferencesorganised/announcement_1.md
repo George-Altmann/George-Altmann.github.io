@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-17 
+date: 2025-06-30 
 inline: true
 related_posts: false
 ---
 
-Pure PGR Seminar, University of Leeds, UK
+ University of Leeds SoM PGR Conference, Leeds, UK
