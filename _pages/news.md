@@ -6,10 +6,33 @@ nav: true
 nav_order: 2
 ---
 
-{% include news.liquid %}
+<!-- Recent Talks -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">Recent Talks</a>
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
 
-{% include Conferences.liquid %}
+    <!-- Conferences/Workshops Attended -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2>
+        <a href="{{ '/conferences/' | relative_url }}" style="color: inherit">Conferences and Workshops Attended</a>
+      </h2>
+      {% include Conferences.liquid limit=true %}
+    {% endif %}
 
-{% include Conferencesorg.liquid %}
+    <!-- Conferences/Workshops Organised -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2>
+        <a href="{{ '/conferences/' | relative_url }}" style="color: inherit">Conferences and Workshops Attended</a>
+      </h2>
+      {% include Conferencesorg.liquid limit=true %}
+    {% endif %}
+
+
+
+
+
 
 
