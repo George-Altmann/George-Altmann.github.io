@@ -5,15 +5,19 @@ title: Conferences and Talks
 nav: true
 nav_order: 2
 ---
-
+<h2>
 Recent Talks
+</h2>
 {% include news.liquid %}
 
-
+<h2>
 Conferences/Workshops Attended
+</h2>
 {% include Conferences.liquid %}
 
+<h2>
 Conferences and Seminars Organised
+</h2>
 {% include Conferencesorg.liquid %}
 
 
