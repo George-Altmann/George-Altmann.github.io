@@ -125,6 +125,14 @@ collections:
     defaults:
       layout: post
     output: true
+  conferences:
+    defaults:
+      layout: post
+    output: true  
+  conferencesorganised:
+    defaults:
+      layout: post
+    output: true  
  
 # -----------------------------------------------------------------------------
 # Jekyll settings
