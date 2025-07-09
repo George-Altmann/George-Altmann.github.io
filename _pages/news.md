@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /Recent Talks/
+permalink: /news/
 permalink: /Conferences/Workshops Attended/
 title: Conferences and Talks
 nav: true
