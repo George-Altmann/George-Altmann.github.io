@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- Introduction to Modern Advances in Algebra 2025, Manchester, UK
+ ITMAIA 2025 (Introduction to Modern Advances in Algebra), Manchester, UK

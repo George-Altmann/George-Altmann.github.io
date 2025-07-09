@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The Yang Baxter Equation and all that, Bedlewo, Poland.
+The Yang Baxter Equation and all that, Będlewo, Poland.

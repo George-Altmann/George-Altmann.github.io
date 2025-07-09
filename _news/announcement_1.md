@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pure PGR Seminar, University of Leeds, UK
+Pure Mathematics Postgraduate Seminar, University of Leeds, UK

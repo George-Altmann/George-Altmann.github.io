@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- University of Leeds SoM PGR Conference, Leeds, UK
+ University of Leeds School of Mathematics Postgraduate Conference, Leeds, UK
