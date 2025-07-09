@@ -23,7 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Teaching/";
           },
-        },{id: "news-pure-pgr-seminar-university-of-leeds-uk",
+        },{id: "conferences-biracks-and-biquandles-theory-applications-and-new-perspectives-algebra-and-representation-theory-in-the-north-leeds-uk",
+          title: 'Biracks and Biquandles: Theory, applications, and new perspectives - Algebra and Representation Theory...',
+          description: "",
+          section: "Conferences",},{id: "conferences-introduction-to-modern-advances-in-algebra-2025-manchester-uk",
+          title: 'Introduction to Modern Advances in Algebra 2025, Manchester, UK',
+          description: "",
+          section: "Conferences",},{id: "conferencesorganised-university-of-leeds-som-pgr-conference-leeds-uk",
+          title: 'University of Leeds SoM PGR Conference, Leeds, UK',
+          description: "",
+          section: "Conferencesorganised",},{id: "news-pure-pgr-seminar-university-of-leeds-uk",
           title: 'Pure PGR Seminar, University of Leeds, UK',
           description: "",
           section: "News",},{id: "news-the-interplay-between-skew-braces-and-hopf-galois-theory-university-of-leeds-uk",
