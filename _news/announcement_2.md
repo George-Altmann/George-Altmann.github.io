@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-The Interplay Between Skew Braces and Hopf-Galois Theory, University of Leeds, UK.
+[The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), University of Leeds, UK.
 
 
 

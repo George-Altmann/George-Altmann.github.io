@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-ARTIN (Algebra and Representation Theory in the North)  - Biracks and Biquandles: Theory, applications, and new perspectives , Leeds, UK
+[ARTIN](https://conferences.leeds.ac.uk/artin/) (Algebra and Representation Theory in the North)  - Biracks and Biquandles: Theory, applications, and new perspectives , Leeds, UK
 
 
 
