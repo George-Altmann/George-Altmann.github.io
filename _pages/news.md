@@ -15,9 +15,6 @@ Conferences/Workshops Attended
 </h2>
 {% include Conferences.liquid %}
 
-<h2>
-Conferences and Seminars Organised
-</h2>
-{% include Conferencesorg.liquid %}
+
 
 
