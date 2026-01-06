@@ -11,7 +11,7 @@ My research is part of the Programme Grant [Combinatorial Representation Theory:
 ## Past Talks
 
 - [Combinatorial Approaches to the Yang–Baxter Equation](https://coybe25.github.io/schedule.html), *October 9, 2025*<br>
-  <strong>Talk Title Here</strong>
+  <strong>Peripheral Systems for a subclass of welded graphs</strong>
 
 - [Bucharest Topology Days](https://mdp.ac/seminars/Bucharest-topology-days/index.html), *July 21, 2025*<br>
   <strong>Enriching Welded Knot Groups via Loop Braid Group Representations</strong>
