@@ -11,19 +11,19 @@ My research is part of the Programme Grant [Combinatorial Representation Theory:
 ## Past Talks
 
 - [Combinatorial Approaches to the Yang–Baxter Equation](https://coybe25.github.io/schedule.html), *October 9, 2025*<br>
-  <strong>Peripheral Systems for a subclass of welded graphs</strong>
+  Peripheral Systems for a subclass of welded graphs
 
 - [Bucharest Topology Days](https://mdp.ac/seminars/Bucharest-topology-days/index.html), *July 21, 2025*<br>
-  <strong>Enriching Welded Knot Groups via Loop Braid Group Representations</strong>
+  Enriching Welded Knot Groups via Loop Braid Group Representations
 
 - [The Yang Baxter Equation and all that](https://sites.google.com/impan.pl/ybe), *June 17, 2025*<br>
-  <strong>Talk Title Here</strong>
+  Lifting the Peripheral System to Welded Links
 
 - [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), *May 15, 2025*<br>
-  <strong>Talk title</strong>
+  A Higher Peripheral System for Welded Knots
 
 - [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), *March 17, 2025*<br>
-  <strong>Braid Groups and Their Representations</strong>
+  Braid Groups and Their Representations
 
 
 ---
