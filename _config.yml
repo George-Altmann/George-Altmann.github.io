@@ -1,12 +1,10 @@
 title: George Altmann
 description: PhD Student, University of Leeds
 
-theme: jekyll-theme-minimal
+remote_theme: yourusername/minimal
+plugins:
+  - jekyll-remote-theme
 
-sass:
-  style: compressed
 
-minima:
-  show_footer: false
 
 
