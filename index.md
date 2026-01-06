@@ -16,7 +16,7 @@ My research is part of the Programme Grant [Combinatorial Representation Theory:
 
 ## Past Talks
 
-- [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/) - Talk title, 2025-05-15
+- [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/) - Talk title, *May 15, 2025*
 - [The Yang Baxter Equation and all that](https://sites.google.com/impan.pl/ybe) - Talk title, 2025-06-17
 - [Conference Name 3](https://conference3.example.com) — Talk title, Date  
 
@@ -24,6 +24,6 @@ My research is part of the Programme Grant [Combinatorial Representation Theory:
 
 ## Teaching
 
-- MATH2130 Further Linear Algebra and Discrete Mathematics, 2025, University of Leeds 
-- MATH1000 Core Mathematics, 2024 – 2025, University of Leeds 
+- MATH2130 Further Linear Algebra and Discrete Mathematics, *2025*, University of Leeds 
+- MATH1000 Core Mathematics, *2024 – 2025*, University of Leeds 
 
