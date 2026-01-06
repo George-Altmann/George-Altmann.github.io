@@ -1,7 +1,7 @@
 title: George Altmann
 description: PhD Student, University of Leeds
 
-remote_theme: yourusername/minimal
+remote_theme: George-Altmann/minimal
 plugins:
   - jekyll-remote-theme
 
