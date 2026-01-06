@@ -10,11 +10,20 @@ My research is part of the Programme Grant [Combinatorial Representation Theory:
 
 ## Past Talks
 
-- [Combinatorial Approaches to the Yang–Baxter Equation](https://coybe25.github.io/schedule.html) - *October 9, 2025*
-- [Bucharest Topology Days](https://mdp.ac/seminars/Bucharest-topology-days/index.html) - Enriching Welded Knot Groups via Loop Braid Group Representations, *July 21, 2025*
-- [The Yang Baxter Equation and all that](https://sites.google.com/impan.pl/ybe) - *June 17, 2025*
-- [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/) - Talk title, *May 15, 2025*
-- [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/) - Braid Groups and Their Representations, *March 17, 2025*
+- [Combinatorial Approaches to the Yang–Baxter Equation](https://coybe25.github.io/schedule.html), *October 9, 2025*<br>
+  <strong>Talk Title Here</strong>
+
+- [Bucharest Topology Days](https://mdp.ac/seminars/Bucharest-topology-days/index.html), *July 21, 2025*<br>
+  <strong>Enriching Welded Knot Groups via Loop Braid Group Representations</strong>
+
+- [The Yang Baxter Equation and all that](https://sites.google.com/impan.pl/ybe), *June 17, 2025*<br>
+  <strong>Talk Title Here</strong>
+
+- [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), *May 15, 2025*<br>
+  <strong>Talk title</strong>
+
+- [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), *March 17, 2025*<br>
+  <strong>Braid Groups and Their Representations</strong>
 
 
 ---
