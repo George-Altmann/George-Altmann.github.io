@@ -1,0 +1,15 @@
+/* Change sidebar width */
+.site-nav {
+    width: 200px;   
+}
+
+/* Change spacing between sidebar items */
+.site-nav ul li {
+    margin-bottom: 1.2em;
+}
+
+/* Change main content padding */
+.main-content {
+    padding-left: 220px;  /* match sidebar width + gap */
+    padding-right: 20px;
+}
