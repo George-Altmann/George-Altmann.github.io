@@ -2,7 +2,7 @@
 title: ""      
 ---
 
-## About
+## Aboute
 
 I am currently a second year PhD student in the Algebra Group of the School of Mathematics, University of Leeds, supervised by Dr João Faria Martins (University of Leeds) and Dr Cristina Palmer-Anghel (Université Clermont Auvergne). My research mainly focuses on knot invariants, specifically invariants of welded links, and representations of the braid group and loop braid group. More generally I am intereseted in the fields of low-dimensional topology, representation theory, quantum topology and TQFTs.
 
