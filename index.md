@@ -19,7 +19,7 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 - [The Yang Baxter Equation and all that](https://sites.google.com/impan.pl/ybe), *June 17, 2025*<br>
   Lifting the Peripheral System to Welded Links
 
-- [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds, *May 15, 2025*<br>
+- [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds, UK, *May 15, 2025*<br>
   A Higher Peripheral System for Welded Knots
 
 - [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds, UK, *March 17, 2025*<br>
