@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Past Talks/
+permalink: /Talks/
 title: Talks
 description: 
 nav: true

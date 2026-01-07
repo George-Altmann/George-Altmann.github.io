@@ -10,7 +10,7 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 
 ---
 
-## Past Talks
+## [Past Talks](/Talks/)
 
 - [Combinatorial Approaches to the Yang–Baxter Equation](https://coybe25.github.io/schedule.html), Leeds, UK, *October 9, 2025*<br>
   Peripheral Systems for a subclass of welded graphs
