@@ -22,7 +22,7 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 - [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds, *May 15, 2025*<br>
   A Higher Peripheral System for Welded Knots
 
-- [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), *March 17, 2025*<br>
+- [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds, UK, *March 17, 2025*<br>
   Braid Groups and Their Representations
 
 
