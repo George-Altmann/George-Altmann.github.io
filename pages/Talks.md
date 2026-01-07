@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /Talks/
+permalink: /Past Talks/
 title: Talks
 description: 
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 ## Upcoming talks
 
