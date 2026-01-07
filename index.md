@@ -16,7 +16,7 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 - [Bucharest Topology Days](https://mdp.ac/seminars/Bucharest-topology-days/index.html), Bucharest, Romania, *July 21, 2025*<br>
   Enriching Welded Knot Groups via Loop Braid Group Representations
 
-- [The Yang Baxter Equation and all that](https://sites.google.com/impan.pl/ybe), *June 17, 2025*<br>
+- [The Yang Baxter Equation and all that](https://sites.google.com/impan.pl/ybe), Będlewo, Poland, *June 17, 2025*<br>
   Lifting the Peripheral System to Welded Links
 
 - [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds, UK, *May 15, 2025*<br>
