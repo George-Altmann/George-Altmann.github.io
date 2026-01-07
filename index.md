@@ -33,3 +33,8 @@ My research is part of the Programme Grant [Combinatorial Representation Theory:
 - MATH2130 Further Linear Algebra and Discrete Mathematics, *2025*, University of Leeds 
 - MATH1000 Core Mathematics, *2024 – 2025*, University of Leeds 
 
+---
+
+## Seminars/Conferences Organised
+
+- Pure PGR Seminar, Leeds, *2025-2026*
