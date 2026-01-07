@@ -24,7 +24,7 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 - [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/), Leeds, UK, *May 15, 2025*<br>
   A Higher Peripheral System for Welded Knots
 
-- [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds, UK, *March 17, 2025*<br>
+- [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminars/2025-03-17-george-altmann-university-of-leeds/), Leeds, UK, *March 17, 2025*<br>
   Braid Groups and Their Representations
 
 
@@ -39,4 +39,4 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 
 ## Seminars/Conferences Organised
 
-- Pure PGR Seminar, Leeds, *2025-2026*
+- [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds, *2025-2026*
