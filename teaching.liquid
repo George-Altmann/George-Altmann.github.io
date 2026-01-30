@@ -1,7 +1,7 @@
 <div class="teaching">
   {% if site.teaching != blank %}
     {% assign teaching = site.teaching | sort: "order" %}
-    {% assign teaching_limit = 100 %} <!-- optional: limit to first 100 items -->
+    {% assign teaching_limit = 100 %} 
     {% for item in teaching limit: teaching_limit %}
       <p>
         <strong>{{ item.year }}</strong>:
