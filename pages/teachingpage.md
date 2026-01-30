@@ -10,7 +10,5 @@ nav_order: 2
 ## Teaching
 
 {% for item in teaching %}
-
-- **{{ item.year }}**: {{ item.title }}, {{ item.institution }}
-
+    - **{{ item.year }}**: {{ item.title }}, {{ item.institution }}
 {% endfor %}
