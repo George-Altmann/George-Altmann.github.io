@@ -9,6 +9,6 @@ nav_order: 2
 
 ## Teaching
 
-{% for item in teaching %}
+{% for item in site.teaching %}
     - **{{ item.year }}**: {{ item.title }}, {{ item.institution }}
 {% endfor %}
