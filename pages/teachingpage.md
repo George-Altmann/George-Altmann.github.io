@@ -9,8 +9,4 @@ nav_order: 2
 
 ## Teaching
 
-{% for item in site.teaching %}
-
-- **{{ item.title }}**, {{ item.year }}, {{ item.institution }}
-
-{% endfor %}
+{% include teaching.liquid %}

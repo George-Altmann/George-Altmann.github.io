@@ -1,0 +1,24 @@
+<div class="teaching">
+  {% if site.teaching != blank %}
+    {% assign teaching_size = site.teaching | size %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        {% assign teaching = site.teaching | sort: "order" %}
+        {% assign teaching_limit = 3 %} {# optional: show first 3 items #}
+        {% for item in teaching limit: teaching_limit %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ item.year }}</th>
+            <td>
+              <a class="teaching-title" href="{{ item.url | relative_url }}">
+                {{ item.title }}
+              </a>,
+              {{ item.institution }}
+            </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No teaching items so far...</p>
+  {% endif %}
+</div>

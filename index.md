@@ -2,8 +2,6 @@
 title: ""      
 ---
 
-{{ site.teaching | size }}
-
 ## About
 
 I am currently a second year PhD student in the Algebra Group of the School of Mathematics, University of Leeds, supervised by Dr João Faria Martins (University of Leeds) and Dr Cristina Palmer-Anghel (Université Clermont Auvergne). My research mainly focuses on knot invariants, specifically invariants of welded links, and representations of the braid group and loop braid group. More generally I am intereseted in the fields of low-dimensional topology, representation theory, quantum topology and TQFTs.
@@ -29,13 +27,12 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 - [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminars/2025-03-17-george-altmann-university-of-leeds/), Leeds, UK, *March 17, 2025*<br>
   Braid Groups and Their Representations
 
-
 ---
 
 ## [Teaching](/Teaching/)
 
-- MATH2130 Further Linear Algebra and Discrete Mathematics, *2025*, University of Leeds 
-- MATH1000 Core Mathematics, *2024 – 2025*, University of Leeds 
+- MATH2130 Further Linear Algebra and Discrete Mathematics, *2025*, University of Leeds
+- MATH1000 Core Mathematics, *2024 – 2025*, University of Leeds
 
 ---
 
