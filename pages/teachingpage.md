@@ -9,9 +9,8 @@ nav_order: 2
 
 ## Teaching
 
-{% assign items = site.teaching | sort: "order" %}
-{% for t in items %}
+{% for item in site.teaching %}
 
-- **{{ t.title }}**, {{ t.year }}, {{ t.institution }}
+- **{{ item.title }}**, {{ item.year }}, {{ item.institution }}
 
 {% endfor %}
