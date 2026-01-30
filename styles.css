@@ -1,0 +1,17 @@
+.table-responsive {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-sm td, .table-sm th {
+  padding: 0.3rem;
+}
+
+.table-borderless th, .table-borderless td {
+  border: 0;
+}
