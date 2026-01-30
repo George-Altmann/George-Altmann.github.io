@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <div class="table">
+      {% assign items = site.teaching | sort: "order" %}
+        {% for page in items %}
+          <a {{ page.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+    
+</html>
