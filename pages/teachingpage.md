@@ -9,5 +9,8 @@ nav_order: 2
 
 ## Teaching
 
-- MATH2130 Further Linear Algebra and Discrete Mathematics, *2025*, University of Leeds 
-- MATH1000 Core Mathematics, *2024 – 2025*, University of Leeds 
+
+{% assign items = site.teaching | sort: "order" %}
+{% for t in items %}
+- **{{ t.title }}**, {{ t.year }}, {{ t.institution }}
+{% endfor %}
