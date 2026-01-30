@@ -9,9 +9,7 @@ nav_order: 2
 
 ## Teaching
 
-{% assign teaching = site.teaching | sort: "order" %}
-{% assign teaching_limit = 100 %}
-{% for item in teaching limit: teaching_limit %}
+{% for item in teaching %}
 
 - **{{ item.year }}**: {{ item.title }}, {{ item.institution }}
 
