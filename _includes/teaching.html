@@ -1,0 +1,21 @@
+<div class="news">
+  {% if site.teaching and site.teaching.size > 0 %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        {% assign teaching = site.teaching | sort: "order" %}
+        {% for item in teaching %}
+          <tr>
+            <th scope="row" style="width: 20%">
+              {{ item.year }}
+            </th>
+            <td>
+              {{ item.title }}, {{ item.institution }}
+            </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No teaching items so far.</p>
+  {% endif %}
+</div>
