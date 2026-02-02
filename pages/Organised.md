@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Organised Events/
+permalink: /Organised/
 title: Organised Events
 description: 
 nav: true

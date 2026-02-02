@@ -29,7 +29,7 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 
 ---
 
-## Organised Events
+## [Organised](/Organised Events/)
 
 {% assign organised = site.organised | sort: "order" | reverse %}
 {% for item in organised %}
