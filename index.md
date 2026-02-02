@@ -29,7 +29,7 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 
 {% assign talks = site.talks | sort: "date" | reverse %}
 {% for item in talks %}
-- [{{ item.title }}]({{ item.link }}), {{ item.location }}, *{{ item.date | date: "%B %-d, %Y" }}*
+- <p> <a> [{{ item.title }}] </a><\p> ({{ item.link }}), {{ item.location }}, *{{ item.date | date: "%B %-d, %Y" }}*
   {{ item.content }}
 {% endfor %}
 
@@ -37,12 +37,10 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 
 ## [Teaching](/Teaching/)
 
-<p><a>
 {% assign teaching = site.teaching | sort: "order" | reverse %}
 {% for item in teaching limit: 3 %}
 - {{ item.title }}, *{{ item.year }}*, {{ item.institution }}
 {% endfor %}
-<a><p>
 
 ---
 
