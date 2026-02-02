@@ -1,15 +1,13 @@
 ---
 layout: default
 permalink: /Talks/
-title: Talks
+title: Conferences
 description: 
 nav: true
 nav_order: 1
 ---
-## Upcoming talks
 
-
-## Past Talks
+## Previous Talks
 
 {% assign talks = site.talks | sort: "date" | reverse %}
 {% for item in talks %}
