@@ -29,6 +29,9 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 
 ---
 
-## Seminars/Conferences Organised
+## Organised Events
 
-- [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds, *2025-2026*
+{% assign organised = site.organised | sort: "order" | reverse %}
+{% for item in organised %}
+- [{{ item.title }}]({{item.link}}), {{ item.institution }}, *{{ item.year }}*
+{% endfor %}
