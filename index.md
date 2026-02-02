@@ -10,7 +10,7 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 
 ---
 
-## [Past Talks](/Talks/)
+## [Recent & Upcoming Talks](/Talks/)
 
 - [Combinatorial Approaches to the Yang–Baxter Equation](https://coybe25.github.io/schedule.html), Leeds, UK, *October 9, 2025*<br>
   Peripheral Systems for a subclass of welded graphs
@@ -27,13 +27,19 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 - [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminars/2025-03-17-george-altmann-university-of-leeds/), Leeds, UK, *March 17, 2025*<br>
   Braid Groups and Their Representations
 
+{% assign talks = site.talks | sort: "date" | reverse %}
+{% for item in talks %}
+- <a href="{{ item.link }}">{{ item.title }}</a>, {{ item.location }}, *{{ item.date | date: "%B %-d, %Y" }}*
+  {{ item.content }}
+{% endfor %}
+
 ---
 
 ## [Teaching](/Teaching/)
 
 {% assign teaching = site.teaching | sort: "order" | reverse %}
 {% for item in teaching limit: 3 %}
-- {{ item.title }}, *({{ item.year }})*, {{ item.institution }}
+- {{ item.title }}, *{{ item.year }}*, {{ item.institution }}
 {% endfor %}
 
 ---
