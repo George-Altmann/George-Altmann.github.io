@@ -13,5 +13,5 @@ nav_order: 2
 - MATH1000 Core Mathematics, *2024 – 2025*, University of Leeds 
 
 {% if site.teaching.size == 0 %}
-No teaching yet
+    No teaching yet
 {% endif %}
