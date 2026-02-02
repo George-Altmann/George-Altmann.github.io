@@ -15,5 +15,3 @@ nav_order: 1
   {{ item.content }}
 {% endfor %}
 
-## Other conferences attended
-
