@@ -12,7 +12,3 @@ plugins:
 collections:
   teaching:
     output: true
-  talks:
-    output: true
-
-
