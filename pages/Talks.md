@@ -26,5 +26,11 @@ nav_order: 1
 - [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/), Leeds, UK, *March 17, 2025*<br>
   Braid Groups and Their Representations
 
+{% assign talks = site.talks | sort: "date" | reverse %}
+{% for item in talks %}
+- [{{ item.title }}]({{ item.link }}), {{ item.location }}, *{{ item.date | date: "%B %-d, %Y" }}*
+  {{ item.content }}
+{% endfor %}
+
 ## Other conferences attended
 
