@@ -6,4 +6,4 @@ link: https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/
 order: 1
 ---
 
-I co-organise this seminar series in Leeds, details for all upcoming and previous talks can be found [here](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/).
+I currently co-organise this seminar series in Leeds, with talks mainly given by current post graduate students in the pure mathematics department. Details for all upcoming and previous talks can be found [here](https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/).

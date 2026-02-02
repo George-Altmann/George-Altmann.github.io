@@ -6,4 +6,4 @@ link:
 order: 2
 ---
 
-I co-organise this reading group at the University of Leeds focused on OSCAR and JuliaLang.
+This is a reading group at the University of Leeds, focused on using OSCAR and JuliaLang for computational algebra. I currently co-organise the first iteration of this group (with I. Colazzo and H. Simpson). More information, including lecture notes, can be found here.
