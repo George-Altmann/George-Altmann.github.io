@@ -2,7 +2,7 @@
 title: OSCAR and JuliaLang Reading Group
 date: 2026
 institution: University of Leeds
-link: 
+link: https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/
 order: 1
 ---
 
