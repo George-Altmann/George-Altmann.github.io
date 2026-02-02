@@ -1,6 +1,6 @@
 ---
 title: Pure PGR Seminar
-date: 2025 - 2026
+year: 2025 - 2026
 institution: University of Leeds
 link: https://mathsseminars.leeds.ac.uk/seminarseries/pure-pgr/
 order: 2
