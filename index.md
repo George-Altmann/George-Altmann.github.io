@@ -27,13 +27,12 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 - [Pure PGR Seminar](https://mathsseminars.leeds.ac.uk/seminars/2025-03-17-george-altmann-university-of-leeds/), Leeds, UK, *March 17, 2025*<br>
   Braid Groups and Their Representations
 
-<p>
 {% assign talks = site.talks | sort: "date" | reverse %}
 {% for item in talks %}
-  <a href="{{ item.link }}">{{ item.title }}</a>, {{ item.location }}, <em>{{ item.date | date: "%B %-d, %Y" }}</em>
-  {{ item.content }}
+  <p><a href="{{ item.link }}">{{ item.title }}</a>, {{ item.location }}, <em>{{ item.date | date: "%B %-d, %Y" }}</em>
+  {{ item.content }}</p>
 {% endfor %}
-</p>
+
 ---
 
 ## [Teaching](/Teaching/)
