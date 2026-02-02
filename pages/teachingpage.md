@@ -9,4 +9,7 @@ nav_order: 2
 
 ## Teaching
 
-{% include teaching.html %}
+{% if site.teaching.size == 0 %}
+No teaching yet
+{% endif %}
+
