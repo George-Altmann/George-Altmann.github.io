@@ -30,8 +30,8 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 {% assign talks = site.talks | sort: "date" | reverse %}
 {% for item in talks %}
   <p>
-  - <a href="{{ item.link }}">{{ item.title }}</a>, {{ item.location }}, <em>{{ item.date | date: "%B %-d, %Y" }}</em>
-  {{ item.content }}
+  - <a href="{{ item.link }}">{{ item.title }}</a>, {{ item.location }}, *{{ item.date | date: "%B %-d, %Y" }}*
+    {{ item.content }}
   </p>
 {% endfor %}
 
