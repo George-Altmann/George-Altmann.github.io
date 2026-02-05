@@ -12,6 +12,6 @@ nav_order: 1
 {% assign talks = site.talks | sort: "date" | reverse %}
 {% for item in talks %}
 - [{{ item.title }}]({{item.link}}), {{ item.location }}, *{{ item.date | date: "%B %-d, %Y" }}*
-  *{{ item.content }}*
+  Title: *{{ item.content }}*
 {% endfor %}
 
