@@ -5,4 +5,4 @@ location: Leeds, UK
 institution: University of Leeds
 link: https://interplaysbhg.github.io/
 ---
-A Higher Peripheral System for Welded Knots
+*A Higher Peripheral System for Welded Knots*

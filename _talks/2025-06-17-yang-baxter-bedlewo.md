@@ -5,4 +5,4 @@ location: Będlewo, Poland
 link: https://sites.google.com/impan.pl/ybe
 order: 3
 ---
-Lifting the Peripheral System to Welded Links
+*Lifting the Peripheral System to Welded Links*
