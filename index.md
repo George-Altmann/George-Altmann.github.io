@@ -4,6 +4,10 @@ title: ""
 
 ## About
 
+<div style="display:none">
+George Altmann topology knot theory motion groups homotopy theory University of Leeds mathematician
+</div>
+
 I am currently a second year PhD student in the Algebra Group of the School of Mathematics, University of Leeds, supervised by Dr João Faria Martins (University of Leeds), Dr Cristina Palmer-Anghel (Université Clermont Auvergne) and Dr Ilaria Colazzo (University of Leeds). My research mainly focuses on knot invariants, specifically invariants of welded links, and representations of the braid group and loop braid group. More generally I am interested in the fields of low-dimensional topology, representation theory, quantum topology and TQFTs.
 
 My research is supported by the Programme Grant [Combinatorial Representation Theory: Discovering the Interfaces of Algebra with Geometry and Topology](https://sites.google.com/view/crt-leeds/home)

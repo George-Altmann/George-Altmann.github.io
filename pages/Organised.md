@@ -2,6 +2,7 @@
 layout: default
 permalink: /Organised/
 title: Organised Events
+seo_title: Organised events of George Altmann in topology and knot theory
 description: 
 nav: true
 nav_order: 3

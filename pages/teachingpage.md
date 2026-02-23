@@ -2,6 +2,7 @@
 layout: default
 permalink: /Teaching/
 title: Teaching
+seo_title: Teaching of George Altmann in mathematics Leeds
 description: 
 nav: true
 nav_order: 2

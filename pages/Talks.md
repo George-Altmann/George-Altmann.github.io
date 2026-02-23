@@ -2,6 +2,7 @@
 layout: default
 permalink: /Talks/
 title: Conferences
+seo_title: Conferences and talks of George Altmann in topology and knot theory
 description: 
 nav: true
 nav_order: 1
