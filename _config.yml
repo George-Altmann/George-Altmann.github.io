@@ -23,3 +23,5 @@ collections:
     output: true
   organised:
     output: true
+  posters:
+    output: true
