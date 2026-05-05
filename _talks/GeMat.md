@@ -6,4 +6,4 @@ institution:
 link: https://sites.google.com/site/gematseminar/gematseminar-geometric-methods-in-algebra-and-topology
 ---
 
-*The Fundamental \pi-Module and Higher Peripheral Systems for Welded Links.*
+*The Fundamental π-Module and Higher Peripheral Systems for Welded Links.*
