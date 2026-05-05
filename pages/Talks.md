@@ -17,3 +17,13 @@ nav_order: 1
   {{ item.content }}
 
 {% endfor %}
+
+## Other Presented Work
+
+{% assign other = site.posters | sort: "date" | reverse %}
+{% for item in other %}
+
+- [{{ item.title }}]({{item.link}}), {{ item.location }}, *{{ item.date | date: "%B %-d, %Y" }}*
+  {{ item.content }}
+
+{% endfor %}
