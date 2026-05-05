@@ -28,7 +28,8 @@ My research is supported by the Programme Grant [Combinatorial Representation Th
 
 {% assign teaching = site.teaching | sort: "order" | reverse %}
 {% for item in teaching limit: 3 %}
-- {{ item.title }}, *{{ item.year }}*, {{ item.institution }}
+- {{ item.title }}, *{{ item.year }}*, {{ item.institution }},
+  {{ item.content }}
 {% endfor %}
 
 ---
