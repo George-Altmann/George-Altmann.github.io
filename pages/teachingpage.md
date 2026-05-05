@@ -13,6 +13,7 @@ nav_order: 2
 {% assign teaching = site.teaching | sort: "order" | reverse %}
 {% for item in teaching %}
 - {{ item.title }}, *{{ item.year }}* , {{ item.institution }}
+    {{item.content}}
 {% endfor %}
 
 ## Other teaching Experience
